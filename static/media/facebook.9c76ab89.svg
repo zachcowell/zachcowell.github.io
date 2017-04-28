@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="28px" viewBox="0 0 15 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="SAMHSA-Search-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-847.000000, -53.000000)" fill="#122E51">
+            <g id="header" transform="translate(35.000000, 23.000000)">
+                <g id="social-media" transform="translate(812.000000, 29.000000)">
+                    <path d="M14.2,1.4 L14.2,5.7 L11.8,5.7 C10.9,5.7 10.3,5.9 10,6.3 C9.7,6.7 9.5,7.3 9.5,8 L9.5,11.1 L14,11.1 L13.4,15.9 L9.5,15.9 L9.5,28.2 L4.8,28.2 L4.8,15.9 L0.8,15.9 L0.8,11.1 L4.8,11.1 L4.8,7.6 C4.8,5.6 5.3,4 6.4,2.9 C7.5,1.8 8.9,1.2 10.7,1.2 C12.1,1.2 13.3,1.2 14.2,1.4 L14.2,1.4 Z" id="facebook"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
